@@ -61,3 +61,7 @@ Java console application with seat management
 ---
 
 ⭐ *If you like my work, consider starring my repositories!*
+
+## 📊 GitHub Stats
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAHILSALUNKHE007&show_icons=true&theme=dark)
+
